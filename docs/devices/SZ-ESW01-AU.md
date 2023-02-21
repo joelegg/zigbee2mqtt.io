@@ -28,6 +28,7 @@ pageClass: device-page
 
 ### Pairing
 With the device unplugged (or socket switched off), press and hold the pairing button for ~4 seconds. Continue holding the pairing button while plugging in the device (or switching the socket on) and continue to hold for 2 seconds. If pairing is successful the red LED will switch off for ~2 seconds, then flash.
+Some may find it will only pair if you follow the steps above but let go of the pair button PRIOR  to when the red light turns off. i.e within 2-3 seconds of plugging it in. 
 <!-- Notes END: Do not edit below this line -->
 
 
